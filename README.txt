@@ -1,0 +1,1 @@
+Upload the files to your hosting platform. This is a basic structure; expand it as needed.
